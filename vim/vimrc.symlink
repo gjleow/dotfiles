@@ -1,4 +1,9 @@
+execute pathogen#infect()
+set encoding=UTF-8
 syntax on
+
+colorscheme gruvbox
 
 " Wrap gitcommit file types at the appropriate length
 filetype indent plugin on
+
