@@ -1,6 +1,7 @@
 execute pathogen#infect()
 set encoding=UTF-8
 syntax on
+set backspace=indent,eol,start
 
 colorscheme gruvbox
 
