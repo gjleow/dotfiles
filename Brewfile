@@ -26,6 +26,7 @@ brew 'unrar'
 brew 'wget'
 brew 'yarn'
 brew install --with-override-system-vi vim
+brew install zsh-autosuggestions
 
 cask 'google-chrome'
 cask 'slack'
