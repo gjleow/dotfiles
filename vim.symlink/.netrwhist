@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/guojunleow/.vim'
+let g:netrw_dirhist_2='/Users/guojunleow/.vim/autoload'
+let g:netrw_dirhist_3='/Users/guojunleow/.vim'
+let g:netrw_dirhist_4='/Users/guojunleow/.vim/autoload'
+let g:netrw_dirhist_5='/Users/guojunleow/.vim'
+let g:netrw_dirhist_6='/Users/guojunleow/.vim/bundle'
+let g:netrw_dirhist_7='/Users/guojunleow/.vim'
